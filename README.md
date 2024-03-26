@@ -17,7 +17,7 @@
 ## Linguagens que estou estudando no momento:
 
 
-[![My Skills](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,next&theme=dark)](https://skillicons.dev)
 
 ##
 
